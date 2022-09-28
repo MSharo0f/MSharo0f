@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MSharo0f
+- 👀 I’m interested in CS.
+- 🌱 I’m currently learning BE in Computer Science.
+- 📫 You can reach me m.sharoof@protonmail.com
